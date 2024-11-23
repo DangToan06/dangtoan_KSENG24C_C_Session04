@@ -18,7 +18,7 @@ int main(){
 			printf("thang %d co 31 ngay", month);
 			break;
 		case 2:
-			printf("thang 2 co 28 ngay");
+			printf("thang 2 co 28 ngay va voi nam nhuan sẽ co 29 ngay");
 			break;
 		case 4:
 		case 6:
